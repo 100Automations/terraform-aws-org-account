@@ -19,10 +19,6 @@ variable lifecycle {
   default = "develop"
 }
 
-variable parent_organization_id {
-  default = "123456789"
-}
-
 variable account_email {
   description = "the email address tied to this account"
   default = "demoproject+aws-develop@gmail.com"
