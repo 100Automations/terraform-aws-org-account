@@ -19,7 +19,7 @@ variable lifecycle {
   default = "develop"
 }
 
-variable parent_organziation_id {
+variable parent_organization_id {
   default = "123456789"
 }
 

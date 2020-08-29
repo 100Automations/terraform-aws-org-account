@@ -20,7 +20,7 @@ variable org_account_default_role_name {
   default = "OrgAccountAssumedRole"
 }
 
-variable parent_organziation_id {
+variable parent_organization_id {
   description = "the root account organization id"
 }
 
