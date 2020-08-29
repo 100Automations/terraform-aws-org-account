@@ -2,7 +2,7 @@ variable org {
   description = "a project name that will be a namespace and identifier for all resources in this account. Example 'fola', 'tdm', 'three11'"
 }
 
-variable lifecycle {
+variable stage {
   description = "short code for the environment or stage in the app lifecycle this account represents. Example: 'stg', 'prd', 'dev', 'log', 'qat'"
 }
 
